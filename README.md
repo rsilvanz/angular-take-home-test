@@ -1,4 +1,4 @@
-## Facteon's Django Take Home Test
+## Django technical test
 
 ### Pre-test Instructions
 
