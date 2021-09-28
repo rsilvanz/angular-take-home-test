@@ -1,4 +1,4 @@
-## Django technical test
+## Django technical test for recruitment
 
 ### Pre-test Instructions
 
